@@ -5,4 +5,4 @@ Slab-1: 1) Text Translaotr
         2) Random Password Generator 
         3) React Router DOM
 
-Slab-2: Coding Ninja Website Clone
+Slab-2: Coding Ninja Website Clone - Using React
